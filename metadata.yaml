@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7037
     wikipedia: http://en.wikipedia.org/wiki/George_Romanes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24800#Darwin-and-After-Darwin-Volumes-1-and-3--13-An-Exposition-of-the-Darwinian-Theory-and-a-Discu_
 gutenberg_bookshelf: Biology
 gutenberg_issued: '2008-03-11'
 gutenberg_type: Text
